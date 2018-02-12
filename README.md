@@ -19,4 +19,5 @@ The minimal steps that you will need to take are:
 7. Once you have captured what you want, save the test.
 8. Now you can replay the test.
 
-
+Finally, put everything into context and read the following paper:
+1. Laurent Christophe, Reinout Stevens, Coen De Roover, Wolfgang De Meuter: Prevalence and Maintenance of Automated Functional Tests for Web Applications. ICSME 2014: 141-150
