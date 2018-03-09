@@ -19,5 +19,15 @@ The minimal steps that you will need to take are:
 7. Once you have captured what you want, save the test.
 8. Now you can replay the test.
 
+As stated, these are the minimal steps! Be more adventurous and find other projects, find projects for other platforms (e.g., web, iOS, ...)!
+
 Finally, put everything into context and read the following paper:
 1. Laurent Christophe, Reinout Stevens, Coen De Roover, Wolfgang De Meuter: Prevalence and Maintenance of Automated Functional Tests for Web Applications. ICSME 2014: 141-150
+
+Specifically, think about the following questions:
+1. Why should you use capture replay testing?
+2. Who should use it?
+3. Why shouldn't you use it.
+4. What is the relation between unit/integration testing and this form of testing?
+5. What is to be preferred? Is something to be preferred? Why?
+
